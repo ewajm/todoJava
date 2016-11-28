@@ -1,10 +1,10 @@
-# _Template_
+# _Sample To Do List_
 
 #### By _Ewa Manek_
 
 ## Description
 
-_A template java app with support for gradle, spark and junit testing_
+_To Do List - following along with Epicodus lessons to create a Java and spark To Do List web app_
 
 ## Setup/Installation Requirements
 
